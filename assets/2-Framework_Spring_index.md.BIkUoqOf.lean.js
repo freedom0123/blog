@@ -1,0 +1,1 @@
+import{c as e,U as r,h as t}from"./chunks/framework.C0iWzFTI.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"2-Framework/Spring/index.md","filePath":"2-Framework/Spring/index.md"}'),a={name:"2-Framework/Spring/index.md"};function n(o,i,s,c,d,p){return r(),t("div")}const f=e(a,[["render",n]]);export{_ as __pageData,f as default};

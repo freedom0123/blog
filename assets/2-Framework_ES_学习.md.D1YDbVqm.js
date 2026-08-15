@@ -1,0 +1,1 @@
+import{c as e,U as t,h as r}from"./chunks/framework.C0iWzFTI.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"2-Framework/ES/学习.md","filePath":"2-Framework/ES/学习.md"}'),a={name:"2-Framework/ES/学习.md"};function o(s,c,n,m,_,p){return t(),r("div")}const f=e(a,[["render",o]]);export{i as __pageData,f as default};

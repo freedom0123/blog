@@ -1,0 +1,1 @@
+import{c as t,U as e,h as a}from"./chunks/framework.C0iWzFTI.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"4-部署/Linux/tmux.md","filePath":"4-部署/Linux/tmux.md"}'),n={name:"4-部署/Linux/tmux.md"};function r(o,s,c,i,m,p){return e(),a("div")}const x=t(n,[["render",r]]);export{d as __pageData,x as default};
